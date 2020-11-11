@@ -45,7 +45,7 @@ class App extends React.Component {
         />
         <br />
         <button onClick={ this.handleSubmit }>
-          Ask the Magic Conch a Question
+          Ask the Magic Conch a Question!
         </button>
         <p> { this.state.answer } </p>
         </div>
