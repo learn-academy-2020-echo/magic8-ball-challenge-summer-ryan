@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/000/582/681/92e.gif");
+  background-color: #CCCCCC;
+
+}
+
+.boxed {
+  margin: 200px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.9;
 }
 
 code {
