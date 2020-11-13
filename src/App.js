@@ -10,7 +10,7 @@ class App extends React.Component {
       question: ""
     }
   }
-
+//test here
   getAnswer = () => {
     // destructures answerArray out of state
     const { answerArray } = this.state;
